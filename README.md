@@ -1,7 +1,7 @@
 # Data-Science-SoftUni---Labs
 
 Homework done for "Data Science" course at SoftUni (June-July 2020)
-The course covers the following topics (4-hour lectures + Labs):
+The course covers the following topics (4-hour Lectures + Labs):
 1.	Data Acquisiton
 2.	Data Tidying and Cleaning
 3.	Data Visualization; Exploratory Data Analysis
