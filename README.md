@@ -1,6 +1,6 @@
 # Data-Science-SoftUni---Labs
 
-Homework done for "Data Science" course at SoftUni (June-July 2020)
+Homework done for "Data Science" course at Software University (June-July 2020)
 
 The course covers the following topics (4-hour Lectures + Labs):
 
