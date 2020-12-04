@@ -3,7 +3,7 @@
 Homework done for "Data Science" course at Software University (June-July 2020) 
 - course 2 of 4 of "Artificial Intelligence" specialization
 
-The course covers the following topics (4-hour Lectures + Labs):
+The course covers the following topics (4-hour live Lectures + Labs):
 
 1.	Data Acquisiton
 2.	Data Tidying and Cleaning
